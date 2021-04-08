@@ -25,8 +25,8 @@ Currently use localStorage to save state for temperature. Not yet applied for th
 
 ---------
 ### How to use
-Command line: open index.html
+Command line: `open index.html`
 
 ---------
 ### How to test
-Command line: open SpecRunner.html
+Command line: `open SpecRunner.html`
